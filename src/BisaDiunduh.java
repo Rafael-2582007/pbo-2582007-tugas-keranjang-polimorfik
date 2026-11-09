@@ -1,2 +1,3 @@
-public class BisaDiunduh {
+public interface BisaDiunduh {
+    String linkUnduh();
 }
